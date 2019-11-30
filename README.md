@@ -4,6 +4,11 @@ This project offers to analyze posts on Nairaland from March 25 2005 till July 1
 
 #Libraries Used
 
--Numpy
--Pandas
--Matplotlib
+- Numpy
+
+- Pandas
+
+- Matplotlib
+
+
+Alternative and better link to notebook can be seen [here](https://nbviewer.jupyter.org/github/Uchencho/Analyzing-Naira-Land-Data/blob/master/analyzing_naira_land_data.ipynb)
